@@ -28,3 +28,5 @@ THEN the saved events persist
 ## Landing page displaying functionability
 
 ![challenge5ss](https://user-images.githubusercontent.com/116224156/210112909-3ab4b721-7b59-41f3-a811-4641f4e1faea.PNG)
+
+Deployed Site: https://alexbrenes999.github.io/work-day-schedule/
